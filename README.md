@@ -9,6 +9,7 @@ Just an awesome collection of talks given by Michelin engineers at various confe
 ## DevOps and Infrastructure
 
 - **[Michelin(e), 120 ans, est passée à l'IaC](https://www.youtube.com/watch?v=XZLE1So0hXo)** - by **Adrien Gooris** & **Guillaume Hospital** - Devoxx France 2024 <sub>(FR)</sub>
+- **[Notre GitLab sur internet ? Oui Monsieur le RSSI !](https://www.youtube.com/watch?v=kVkUmwY1R0k)** - by **Lucas Drago** & **Adrien Gooris** - Volcamp 2024 <sub>(FR)</sub>
 
 ---
 #### Copyright
