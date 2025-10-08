@@ -4,6 +4,8 @@
 
 # 🎙️ Awesome Michelin Talks ⭐️
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Just an awesome collection of talks given by Michelin engineers at various conferences, curated for your enjoyment and learning!
 
 ## Software Development & Engineering
@@ -17,5 +19,9 @@ Just an awesome collection of talks given by Michelin engineers at various confe
 - **[Notre GitLab sur internet ? Oui Monsieur le RSSI !](https://www.youtube.com/watch?v=kVkUmwY1R0k)** - by **Lucas Drago** & **Adrien Gooris** - Volcamp 2024 <sub>(FR)</sub>
 
 ---
-#### Copyright
+#### Contributing
+
+Contributions welcome! Check that your talk is not already there, open a Pull Request and add your talk to the bottom of the relevant section by following the existing format.
+
+#### Copyright & Licence
 Awesome Michelin Talks © 2025 by Michelin is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
