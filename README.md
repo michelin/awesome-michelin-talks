@@ -23,6 +23,7 @@ Just an awesome collection of talks given by Michelin engineers at various confe
 
 ## DevOps and Infrastructure
 
+- **[Michelin E2E from pain to gain](https://www.youtube.com/watch?v=SWPtYOWZtR4&list=PL4RCxklHWZ9v_p0d5gFb5SgJ_d_RSFCtZ&index=10)** - by **Yannick Raffin** & **Aude Malabat** - MongoDB.local 2025 <sub>(FR)</sub>
 - **[Intégration d’un produit du marché dans un écosystème d’entreprise](https://www.youtube.com/watch?v=HOQUe1HHnqE)** - by **Emilie Bisseriex** - Volcamp 2025 <sub>(FR)</sub>
 - **[À l'épreuve de l'échelle - surmonter la dette technique et les défis d'une plateforme DevOps](https://www.youtube.com/watch?v=ocQBYqYHrw8)** - by **Lucas Drago** - Volcamp 2025 <sub>(FR)</sub>
 - **[Michelin(e), 120 ans, est passée à l'IaC](https://www.youtube.com/watch?v=XZLE1So0hXo)** - by **Adrien Gooris** & **Guillaume Hospital** - Devoxx France 2024 <sub>(FR)</sub>
