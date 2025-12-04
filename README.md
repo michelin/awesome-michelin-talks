@@ -15,7 +15,9 @@ Just an awesome collection of talks given by Michelin engineers at various confe
 - **[Processing Exception Handling and Dead Letter Queue in Kafka Streams](https://current.confluent.io/post-conference-videos-2025/processing-exception-handling-and-dead-letter-queue-in-kafka-streams-lnd25)** - by **Sébastien Viale** & **Loïc Greffier** - Current London 2025 <sub>(EN)</sub>
 - **[Massive Kafka Streams Topology Revamp in Production: No Chaos, No Headaches! My Key Takeaways 🦾!](https://current.confluent.io/post-conference-videos-2025/massive-kafka-streams-topology-revamp-in-production-no-chaos-no-headaches-my-key-takeaways-lnd25)** - by **Marie-Laure Momplot** - Current London 2025 <sub>(EN)</sub>
 - **[Plongée dans l'univers de Apache Kafka @ Michelin: L'équilibre entre Dev et Ops](https://www.youtube.com/watch?v=gbzm4vqnVl8)** - by **Sébastien Viale** & **Loïc Greffier** - DevFest Lille 2024 <sub>(FR)</sub>
-- **[D'un orchestre figé à un joli ballet aka comment on a propulsé notre monolith dans un pas de danse endiablé 😈](https://www.youtube.com/watch?v=wRA_J8vT6_Y&t=49s)** - by **Sébastien Viale** && **Marie-Laure Momplot** - Volcamp 2023 <sub>(FR)</sub>
+- **[D'un orchestre figé à un joli ballet aka comment on a propulsé notre monolith dans un pas de danse endiablé 😈](https://www.youtube.com/watch?v=wRA_J8vT6_Y&t=49s)** - by **Sébastien Viale** & **Marie-Laure Momplot** - Volcamp 2023 <sub>(FR)</sub>
+- **[Kstreamplify: simplifiez vous la vie avec le développement de vos applications Kafka Streams](https://www.youtube.com/watch?v=JpyATRmx1CI)** - by **Sébastien Viale** & **Clément Vacher** - BDX I/O 2023 <sub>(FR)</sub>
+- **[From Monolithic Orchestrator to Streaming with Microservices](https://www.confluent.io/events/kafka-summit-london-2023/from-monolithic-orchestrator-to-streaming-with-microservices/)** - by **Valérie Servaire** & **Olivier Jauze** - Kafka Summit London 2023 <sub>(EN)</sub>
 
 ### Front-End
 
@@ -26,8 +28,11 @@ Just an awesome collection of talks given by Michelin engineers at various confe
 - **[Michelin E2E from pain to gain](https://www.youtube.com/watch?v=SWPtYOWZtR4&list=PL4RCxklHWZ9v_p0d5gFb5SgJ_d_RSFCtZ&index=10)** - by **Yannick Raffin** & **Aude Malabat** - MongoDB.local 2025 <sub>(FR)</sub>
 - **[Intégration d’un produit du marché dans un écosystème d’entreprise](https://www.youtube.com/watch?v=HOQUe1HHnqE)** - by **Emilie Bisseriex** - Volcamp 2025 <sub>(FR)</sub>
 - **[À l'épreuve de l'échelle - surmonter la dette technique et les défis d'une plateforme DevOps](https://www.youtube.com/watch?v=ocQBYqYHrw8)** - by **Lucas Drago** - Volcamp 2025 <sub>(FR)</sub>
+- **[Driving innovation at Michelin: How we scaled cloud & on-prem infrastructure while cutting costs](https://www.youtube.com/watch?v=l1JNAqAvpPw)** - by by **Gabriel Quennesson** &  **Arnaud Pons** - KubeCon EU 2025 London <sub>(EN)</sub>
+- **[Stratégie cloud hybride chez Michelin ?](https://www.youtube.com/watch?v=0PsrMd3Dob0)** - by **Guillaume Hospital** & **Thierry Cognon** - Wax 2024 <sub>(FR)</sub>
 - **[Michelin(e), 120 ans, est passée à l'IaC](https://www.youtube.com/watch?v=XZLE1So0hXo)** - by **Adrien Gooris** & **Guillaume Hospital** - Devoxx France 2024 <sub>(FR)</sub>
 - **[Notre GitLab sur internet ? Oui Monsieur le RSSI !](https://www.youtube.com/watch?v=kVkUmwY1R0k)** - by **Lucas Drago** & **Adrien Gooris** - Volcamp 2024 <sub>(FR)</sub>
+- **[De Vanilla à Tanzu - REX sur une migration Kubernetes](https://www.youtube.com/watch?v=r36_cCtPEZQ)** - by **Gabriel Quennesson** - Volcamp 2022 <sub>(FR)<sub>
 
 ## Tech People and Culture 
 
